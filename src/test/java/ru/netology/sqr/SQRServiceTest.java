@@ -1,5 +1,5 @@
 package ru.netology.sqr;
-import ru.netology.sqr.SQRService;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
